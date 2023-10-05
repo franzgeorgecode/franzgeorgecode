@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/franzgeorgecode" target="blank"><img src="https://img.shields.io/twitter/follow/franzgeorgecode?logo=twitter&style=for-the-badge" alt="franzgeorgecode" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack Developer at Universidad Tecnológica Nacional de Buenos Aires Argentina](https://github.com/franzgeorgecode/Full_Stack_Developer_UTNBA)
+- 🔭 I’m currently working on [Full Stack Developer at Udemy]
 
-- 🌱 I’m currently learning **Full Stack Developer at Universidad Tecnológica Nacional de Buenos Aires Argentina**
+- 🌱 I’m currently learning **Full Stack Developer at Udemy**
 
-- 👯 I’m looking to collaborate on [Full Stack Developer at Universidad Tecnológica Nacional de Buenos Aires Argentina](https://github.com/franzgeorgecode/Full_Stack_Developer_UTNBA)
+- 👯 I’m looking to collaborate on [Full Stack Developer at Udemy]
 
-- 🤝 I’m looking for help with [Full Stack Developer at Universidad Tecnológica Nacional de Buenos Aires Argentina](https://github.com/franzgeorgecode/Full_Stack_Developer_UTNBA)
+- 🤝 I’m looking for help with [Full Stack Developer]
 
 - 👨‍💻 All of my projects are available at [https://github.com/franzgeorgecode?tab=repositories](https://github.com/franzgeorgecode?tab=repositories)
 
